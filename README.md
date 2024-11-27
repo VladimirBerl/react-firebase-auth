@@ -2,11 +2,15 @@
 
 Этот проект был запущен с помощью [Create React App](https://github.com/facebook/create-react-app).
 
+# Запуск
+
+npm i и npm run start
+
 ## Доступные скрипты
 
 В каталоге проекта вы можете запустить:
 
-### `npm start`
+### `npm run start`
 
 Запускает приложение в режиме разработки.\
 Откройте [http://localhost:3000](http://localhost:3000), чтобы просмотреть его в браузере.
